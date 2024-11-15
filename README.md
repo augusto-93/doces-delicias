@@ -5,6 +5,6 @@ O mesmo consiste em um site de vendas de Cupcakes,sendo possível escolher tipos
 
 -
 
-![CuteCake]((https://github.com/augusto-93/doces-delicias/blob/main/home.PNG)) 
+![CuteCake](https://github.com/augusto-93/doces-delicias/blob/main/home.PNG) 
 
 -
